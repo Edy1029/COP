@@ -1,469 +1,439 @@
 #EXTM3U
-#EXTINF:-1,A+ HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" ,A+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:-1,A+ SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" ,A+ SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:-1,A3SERIES HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" ,A3SERIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/EB9778/index.m3u8
-#EXTINF:-1,A3SERIES SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" ,A3SERIES SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/EB9778/index.m3u8
-#EXTINF:-1,A&E HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" ,A&E HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/5361DF/index.m3u8
-#EXTINF:-1,A&E SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" ,A&E SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/5361DF/index.m3u8
-#EXTINF:-1,ADN 40 HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" ,ADN 40 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/08FFE4/index.m3u8
-#EXTINF:-1,ADN 40 SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15384_dark_360w_270h.png" ,ADN 40 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/08FFE4/index.m3u8
-#EXTINF:-1,ADRENALINA SPORTS HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83162_dark_360w_270h.png" ,ADRENALINA SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/4A2C5A/index.m3u8
-#EXTINF:-1,ADRENALINA SPORTS SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83162_dark_360w_270h.png" ,ADRENALINA SPORTS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/4A2C5A/index.m3u8
-#EXTINF:-1,AMC HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" ,AMC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/F9128F/index.m3u8
-#EXTINF:-1,AMC SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" ,AMC SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/F9128F/index.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" ,ANIMAL PLANET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/EB9778/index.m3u8
-#EXTINF:-1,ANIMAL PLANET SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" ,ANIMAL PLANET SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/EB9778/index.m3u8
-#EXTINF:-1,ANTENA 3 HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90309_dark_360w_270h.png" ,ANTENA 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/26C97F/index.m3u8
-#EXTINF:-1,ANTENA 3 SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90309_dark_360w_270h.png" ,ANTENA 3 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/26C97F/index.m3u8
-#EXTINF:-1,AXN HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" ,AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-rhttp://209.126.119.148:20102/freemxhd/7eOySJYCn/4BBC11/index.m3u8
-#EXTINF:-1,AXN SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/4BBC11/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" ,AXN SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/4BBC11/index.m3u8
-#EXTINF:-1,AYM SPORTS HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34863_dark_360w_270h.png" ,AYM SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/6458DF/index.m3u8
-#EXTINF:-1,AYM SPORTS SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34863_dark_360w_270h.png" ,AYM SPORTS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/6458DF/index.m3u8
-#EXTINF:-1,AZTECA CINEMA HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95687_dark_360w_270h.png" ,AZTECA CINEMA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/D50B4E/index.m3u8
-#EXTINF:-1,AZTECA CINEMA SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95687_dark_360w_270h.png" ,AZTECA CINEMA SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/D50B4E/index.m3u8
-#EXTINF:-1,AZTECA CLIC HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s92197_dark_360w_270h.png" ,AZTECA CLIC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/EA8E4D/index.m3u8
-#EXTINF:-1,AZTECA CLIC SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s92197_dark_360w_270h.png" ,AZTECA CLIC SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/EA8E4D/index.m3u8
-#EXTINF:-1,AZTECA CORAZON HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61404_dark_360w_270h.png" ,AZTECA CORAZON HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/A3FF22/index.m3u8
-#EXTINF:-1,AZTECA CORAZON SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s61404_dark_360w_270h.png" ,AZTECA CORAZON SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/A3FF22/index.m3u8
-#EXTINF:0,AZTECA MUNDO HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79968_dark_360w_270h.png" ,AZTECA MUNDO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/991005/index.m3u8
-#EXTINF:0,AZTECA MUNDO SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79968_dark_360w_270h.png" ,AZTECA MUNDO SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/991005/index.m3u8
-#EXTINF:0,AZTECA 7 HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" ,AZTECA 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/A16910/index.m3u8
-#EXTINF:0,AZTECA 7 SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" ,AZTECA 7 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/A16910/index.m3u8
-#EXTINF:0,AZTECA UNO HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" ,AZTECA UNO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/2770DE/index.m3u8
-#EXTINF:0,AZTECA UNO SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" ,AZTECA UNO SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/2770DE/index.m3u8
-#EXTINF:0,BITME HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" ,BITME HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/618E1A/index.m3u8
-#EXTINF:0,BITME SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" ,BITME SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/618E1A/index.m3u8
-#EXTINF:0,CARTOONITO HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" ,CARTOONITO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,CARTOONITO SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" ,CARTOONITO SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,CANAL 5 HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" ,CANAL 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,CANAL 5 SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" ,CANAL 5 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,CARTOON NETWORT HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" ,CARTOON NETWORT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/F6100A/index.m3u8
-#EXTINF:0,CARTOON NETWORT SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" ,CARTOON NETWORT SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/F6100A/index.m3u8
-#EXTINF:0,CINECANAL HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" ,CINECANAL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/EA63EC/index.m3u8
-#EXTINF:0,CINECANAL SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" ,CINECANAL SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/EA63EC/index.m3u8
-#EXTINF:0,CINEMAX HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" ,CINEMAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/B24604/index.m3u8
-#EXTINF:0,CINEMAX SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" ,CINEMAX SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/B24604/index.m3u8
-#EXTINF:0,CLARO SPORTS HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" ,CLARO SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/49741E/index.m3u8
-#EXTINF:0,CLARO SPORTS SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" ,CLARO SPORTS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/49741E/index.m3u8
-#EXTINF:0,COMEDY CENTRAL HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" ,COMEDY CENTRAL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/98BA8C/index.m3u8
-#EXTINF:0,COMEDY CENTRAL SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" ,COMEDY CENTRAL SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/98BA8C/index.m3u8
-#EXTINF:0,DE PELICULA HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" ,DE PELICULA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0BF98/index.m3u8
-#EXTINF:0,DE PELICULA SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" ,DE PELICULA SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/E0BF98/index.m3u8
-#EXTINF:0,DE PELICULA PLUS HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" ,DE PELICULA PLUS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/0B98DF/index.m3u8
-#EXTINF:0,DE PELICULA PLUS SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74016_dark_360w_270h.png" ,DE PELICULA PLUS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/0B98DF/index.m3u8
-#EXTINF:0,DISCOVERY CHANNEL HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" ,DISCOVERY CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn//index.m3u8
-#EXTINF:0,DISCOVERY CHANNEL SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" ,DISCOVERY CHANNEL SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn//index.m3u8
-#EXTINF:0,DISCOVERY KIDS HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" ,DISCOVERY KIDS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/294F2B/index.m3u8
-#EXTINF:0,DISCOVERY KIDS SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" ,DISCOVERY KIDS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/294F2B/index.m3u8
-#EXTINF:0,DISNEY CHANNEL HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19234_dark_360w_270h.png" ,DISNEY CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/EB9778/index.m3u8
-#EXTINF:0,DISNEY CHANNEL SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19234_dark_360w_270h.png" ,DISNEY CHANNEL SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/EB9778/index.m3u8
-#EXTINF:0,DISNEY JUNIOR HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" ,DISNEY JUNIOR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/14FCF3/index.m3u8
-#EXTINF:0,DISNEY JUNIOR SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" ,DISNEY JUNIOR SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/14FCF3/index.m3u8
-#EXTINF:0,DISTRITO COMEDIA HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" ,DISTRITO COMEDIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/7941B0/index.m3u8
-#EXTINF:0,DISTRITO COMEDIA SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" ,DISTRITO COMEDIA SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/7941B0/index.m3u8
-#EXTINF:0,E! HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" ,E! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/14DD50/index.m3u8
-#EXTINF:0,E! SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" ,E! SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/14DD50/index.m3u8
-#EXTINF:0,EL GOURMET HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" ,EL GOURMET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/30FB0C/index.m3u8
-#EXTINF:0,EL GOURMET SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" ,EL GOURMET SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/30FB0C/index.m3u8
-#EXTINF:0,EL NU9VE HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59528_dark_360w_270h.png" ,EL NU9VE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,EL NU9VE SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/0621E7/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59528_dark_360w_270h.png" ,EL NU9VE SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ESPN HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/0621E7/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" ,ESPN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ESPN SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/8ABABD/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" ,ESPN SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ESPN 2 HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/8ABABD/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" ,ESPN 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ESPN 2 SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" ,ESPN 2 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ESPN 3 HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" ,ESPN 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ESPN 3 SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" ,ESPN 3 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ESPN PLUS HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" ,ESPN PLUS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ESPN PLUS SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" ,ESPN PLUS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,EUROPA CHANNEL HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" ,EUROPA CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,EUROPA CHANNEL SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" ,EUROPA CHANNEL SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FILMS & ARTS HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" ,FILMS & ARTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FILMS & ARTS SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/E5DB64/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" ,FILMS & ARTS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FORO TV HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/E5DB64/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" ,FORO TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FORO TV SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/60250E/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66635_dark_360w_270h.png" ,FORO TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,STAR CHANNEL HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/60250E/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" ,STAR CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,STAR CHANNEL SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/3B7266/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" ,STAR CHANNEL SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FOX SPORTS HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/3B7266/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59307_dark_360w_270h.png" ,FOX SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FOX SPORTS SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/DBB0A0/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59307_dark_360w_270h.png" ,FOX SPORTS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FOX SPORTS 2 HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/DBB0A0/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" ,FOX SPORTS 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FOX SPORTS 2 SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/A0BB38/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" ,FOX SPORTS 2 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FOX SPORTS 3 HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/A0BB38/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" ,FOX SPORTS 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FOX SPORTS 3 SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/1F63CD/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" ,FOX SPORTS 3 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FX HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/1F63CD/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" ,FX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,FX SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/D57033/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46442_dark_360w_270h.png" ,FX SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,GLITZ HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/D57033/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" ,GOLDEN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,GLITZ SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/68FAF7/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" ,GOLDEN SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,GOLDEN HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/68FAF7/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" ,GOLDEN EDGE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,GOLDEN SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/540608/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" ,GOLDEN EDGE SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,GOLDEN EDGE HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/540608/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" ,GOLDEN PLUS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,GOLDEN EDGE SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/DCF646/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" ,GOLDEN PLUS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,GOLDEN PLUS HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/DCF646/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" ,IMAGEN TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,GOLDEN PLUS SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/8443EF/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" ,IMAGEN TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,GOLF HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/8443EF/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" ,LAS ESTRELLAS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,GOLF SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/25E19A/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" ,LAS ESTRELLAS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,HOLA TV HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/25E19A/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" ,LIFETIME HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,HOLA TV SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/54FF13/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" ,LIFETIME SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,IMAGEN TV HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/54FF13/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17457_dark_360w_270h.png" ,MAS CHIC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,IMAGEN TV SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/CAC7B9/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s17457_dark_360w_270h.png" ,MAS CHIC SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,LAS ESTRELLAS HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/CAC7B9/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" ,NICK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,LAS ESTRELLAS SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/49AFC5/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" ,NICK SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,LIFETIME HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/49AFC5/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" ,TEEN NICK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,LIFETIME SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" ,TEEN NICK SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,MAS CHIC HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" ,NICK JR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,MAS CHIC SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/8DE591/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" ,NICK JR SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,NICK HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/8DE591/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" ,ONCE TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,NICK SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/C70155/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" ,ONCE TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TEEN NICK HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/C70155/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" ,PARAMOUNT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TEEN NICK SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/84E201/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" ,PARAMOUNT SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,NICK JR HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/84E201/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" ,SONY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,NICK JR SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/9C03EF/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" ,SONY SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ONCE TV HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/9C03EF/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" ,SPACE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ONCE TV SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/48D32A/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s68021_dark_360w_270h.png" ,SPACE SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ONCE NIÑOS HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/48D32A/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" ,STUDIO UNIVERSAL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,ONCE NIÑOS HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/9966B7/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" ,STUDIO UNIVERSAL SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,PARAMOUNT HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/9966B7/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" ,SYFY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,PARAMOUNT SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/E02E77/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" ,SYFY SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,SONY HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/E02E77/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" ,TBS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,SONY SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/7BA848/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75073_dark_360w_270h.png" ,TBS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,SPACE HD
+http://209.126.119.148:20102/freemxsd/7eOySJYCn/7BA848/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" ,TCM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,SPACE SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" ,TCM SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,STUDIO UNIVERSAL HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" ,TELEMUNDO INTERNACIONAL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,STUDIO UNIVERSAL SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" ,TELEMUNDO INTERNACIONAL SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,SYFY HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" ,TLNOVELAS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,SYFY SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" ,TLNOVELAS SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TBS HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" ,TNT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TBS SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" ,TNT SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TCM HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" ,TNT SERIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TCM SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" ,TNT SERIES SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TELEMUNDO INTERNACIONAL HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" ,TUDN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TELEMUNDO INTERNACIONAL SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" ,TUDN SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TLNOVELAS HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s57580_dark_360w_270h.png" ,TVC DEPORTES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TLNOVELAS SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s57580_dark_360w_270h.png" ,TVC DEPORTES SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TNT HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" ,UNICABLE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TNT SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" ,UNICABLE SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TNT SERIES HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" ,UNIVERSAL CHANNEL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TNT SERIES SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" ,UNIVERSAL CHANNEL SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TRUTV HD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" ,WARNER HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TRUTV SD
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" ,WARNER SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TUDN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TUDN SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TVC DEPORTES HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,TVC DEPORTES SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,UNICABLE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,UNICABLE SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,UNIVERSAL CHANNEL HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,UNIVERSAL CHANNEL SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,WARNER HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:0,WARNER SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
+http://209.126.119.148:20102/freemxhd/7eOySJYCn/000000/index.m3u8
