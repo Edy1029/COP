@@ -5,10 +5,10 @@ http://209.126.119.148:20102/freemxhd/7eOySJYCn/E0D2B2/index.m3u8
 #EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s116157_dark_360w_270h.png" ,A+ SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/E0D2B2/index.m3u8
-#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" ,A3SERIES HD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" ,A3SERIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/EB9778/index.m3u8
-#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16800_dark_360w_270h.png" ,A3SERIES SD
+#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" ,A3SERIES SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/EB9778/index.m3u8
 #EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" ,A&E HD
@@ -47,10 +47,10 @@ http://209.126.119.148:20102/freemxhd/7eOySJYCn/26C97F/index.m3u8
 #EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90309_dark_360w_270h.png" ,ANTENA 3 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/26C97F/index.m3u8
-#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" ,AXN HD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" ,AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxhd/7eOySJYCn/4BBC11/index.m3u8
-#EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101096_dark_360w_270h.png" ,AXN SD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" ,AXN SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 http://209.126.119.148:20102/freemxsd/7eOySJYCn/4BBC11/index.m3u8
 #EXTINF:-1, tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s34863_dark_360w_270h.png" ,AYM SPORTS HD
